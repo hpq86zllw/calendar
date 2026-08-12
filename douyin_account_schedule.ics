@@ -1,1 +1,23 @@
 
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Douyin Schedule Extractor//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:抖音账号行程
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:78d27b89549f8f42f0ecd346bef55e6e@douyin-schedule
+DTSTAMP:20260813T031750Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:猫禾子 东莞萤火虫psd签售
+DESCRIPTION:用户名：猫禾子\n账号：https://www.douyin.com/user/MS4
+ wLjABAAAAQm5xose9sh4yGjirEeH6kbz9QJGqUPxLDoj4Zi88JR4?from_tab_name=main\n
+ 行程日期：8.22\n行程内容：东莞萤火虫psd签售\n\n完整简
+ 介：\n谢谢喜欢，关注我的宝都心想事成  \nCoser  其他同
+ 茗 猫禾子 \n⭐：8.22-23东莞萤火虫psd签售；9.13广州康正
+ 社签售；10.17上海舰长社碧蓝only签售；11.7广州舰长社碧
+ 蓝only签售\n景区推广/展台/嘉宾/探店推广合作带内容私
+ 信
+END:VEVENT
