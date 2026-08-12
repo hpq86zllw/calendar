@@ -8,27 +8,41 @@ X-WR-TIMEZONE:Asia/Shanghai
 
 BEGIN:VEVENT
 UID:473568a22ba9d5c1f9b7862f28d08ab0@douyin-schedule
-DTSTAMP:20260813T014355Z
+DTSTAMP:20260813T014558Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:喵喵不吃魚 次元交错动漫嘉年华（签售）
 DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/user/MS4wLjABA
  AAA1eiDksSVnuR4vKhQhqtukphGervKn87H_7dwCkqPMtg?from_tab_name=main\n行程
  日期：8.22\n行程内容：次元交错动漫嘉年华（签售）\n\n
- 完整简介：\n行程：8.22次元交错动漫嘉年华（签售） ｜8
- .23佛山...
+ 完整简介：\nJj1277656536
+IP属地：广东
+行程：8.22次元交错
+ 动漫嘉年华（签售） ｜8.23佛山...
+更多
+分享主页
+私信
+
+ 私信
 END:VEVENT
 
 BEGIN:VEVENT
 UID:bcf2ba37bd765835d15df324725bb140@douyin-schedule
-DTSTAMP:20260813T014355Z
+DTSTAMP:20260813T014558Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:喵喵不吃魚 佛山
 DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/user/MS4wLjABA
  AAA1eiDksSVnuR4vKhQhqtukphGervKn87H_7dwCkqPMtg?from_tab_name=main\n行程
- 日期：8.23\n行程内容：佛山\n\n完整简介：\n行程：8.22次
- 元交错动漫嘉年华（签售） ｜8.23佛山...
+ 日期：8.23\n行程内容：佛山\n\n完整简介：\nJj1277656536
+IP
+ 属地：广东
+行程：8.22次元交错动漫嘉年华（签售） ｜8.
+ 23佛山...
+更多
+分享主页
+私信
+私信
 END:VEVENT
 
 END:VCALENDAR
