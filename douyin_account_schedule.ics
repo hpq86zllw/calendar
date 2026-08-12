@@ -5,10 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:抖音账号行程
 X-WR-TIMEZONE:Asia/Shanghai
-
 BEGIN:VEVENT
 UID:78d27b89549f8f42f0ecd346bef55e6e@douyin-schedule
-DTSTAMP:20260813T023750Z
+DTSTAMP:20260813T024204Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:猫禾子 东莞萤火虫psd签售
@@ -21,10 +20,9 @@ DESCRIPTION:用户名：猫禾子\n账号：https://www.douyin.com/user/MS4
  蓝only签售\n景区推广/展台/嘉宾/探店推广合作带内容私
  信
 END:VEVENT
-
 BEGIN:VEVENT
 UID:c99ccdc6eda69623008d858b0ca5162a@douyin-schedule
-DTSTAMP:20260813T023750Z
+DTSTAMP:20260813T024204Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:猫禾子 东莞萤火虫psd签售
@@ -37,10 +35,9 @@ DESCRIPTION:用户名：猫禾子\n账号：https://www.douyin.com/user/MS4
  蓝only签售\n景区推广/展台/嘉宾/探店推广合作带内容私
  信
 END:VEVENT
-
 BEGIN:VEVENT
 UID:ecb016e943ce38f583646ff6b4ad3b56@douyin-schedule
-DTSTAMP:20260813T023750Z
+DTSTAMP:20260813T024204Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:猫禾子 广州康正社签售
@@ -52,10 +49,9 @@ DESCRIPTION:用户名：猫禾子\n账号：https://www.douyin.com/user/MS4
  售；10.17上海舰长社碧蓝only签售；11.7广州舰长社碧蓝only
  签售\n景区推广/展台/嘉宾/探店推广合作带内容私信
 END:VEVENT
-
 BEGIN:VEVENT
 UID:7e3319806d506c8f04380f2932908ec1@douyin-schedule
-DTSTAMP:20260813T023750Z
+DTSTAMP:20260813T024204Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:猫禾子 上海舰长社碧蓝only签售
@@ -68,10 +64,9 @@ DESCRIPTION:用户名：猫禾子\n账号：https://www.douyin.com/user/MS4
  长社碧蓝only签售\n景区推广/展台/嘉宾/探店推广合作带
  内容私信
 END:VEVENT
-
 BEGIN:VEVENT
 UID:b75630efc524b5d07a56d67afe263d6a@douyin-schedule
-DTSTAMP:20260813T023750Z
+DTSTAMP:20260813T024204Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:猫禾子 广州舰长社碧蓝only签售
@@ -84,10 +79,9 @@ DESCRIPTION:用户名：猫禾子\n账号：https://www.douyin.com/user/MS4
  社碧蓝only签售\n景区推广/展台/嘉宾/探店推广合作带内
  容私信
 END:VEVENT
-
 BEGIN:VEVENT
 UID:473568a22ba9d5c1f9b7862f28d08ab0@douyin-schedule
-DTSTAMP:20260813T023750Z
+DTSTAMP:20260813T024204Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:喵喵不吃魚 次元交错动漫嘉年华（签售）
@@ -100,10 +94,9 @@ DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/us
  点后播\n🈴/漫展/摄影会：mmbcy0610（合作备注➕品牌\n恋
  人：@小魚冻干🐟
 END:VEVENT
-
 BEGIN:VEVENT
 UID:b1b529b26e6ca899fde32b1bfdadc3e1@douyin-schedule
-DTSTAMP:20260813T023750Z
+DTSTAMP:20260813T024204Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:喵喵不吃魚 佛山cpg08
@@ -115,10 +108,9 @@ DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/us
  合作\n✈️➕🫧｜🚗回关｜随机22点后播\n🈴/漫展/摄影
  会：mmbcy0610（合作备注➕品牌\n恋人：@小魚冻干🐟
 END:VEVENT
-
 BEGIN:VEVENT
 UID:7d0385f307e75a492a33fc8376b65c0c@douyin-schedule
-DTSTAMP:20260813T023750Z
+DTSTAMP:20260813T024204Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:喵喵不吃魚 海汀阁卡
@@ -130,10 +122,9 @@ DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/us
  合作\n✈️➕🫧｜🚗回关｜随机22点后播\n🈴/漫展/摄影
  会：mmbcy0610（合作备注➕品牌\n恋人：@小魚冻干🐟
 END:VEVENT
-
 BEGIN:VEVENT
 UID:e0844bcb257df849bb33391f60089f1b@douyin-schedule
-DTSTAMP:20260813T023750Z
+DTSTAMP:20260813T024204Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:喵喵不吃魚 海汀阁卡
@@ -145,10 +136,9 @@ DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/us
  合作\n✈️➕🫧｜🚗回关｜随机22点后播\n🈴/漫展/摄影
  会：mmbcy0610（合作备注➕品牌\n恋人：@小魚冻干🐟
 END:VEVENT
-
 BEGIN:VEVENT
 UID:d0f196a4905606977568397f7b9e7e4a@douyin-schedule
-DTSTAMP:20260813T023750Z
+DTSTAMP:20260813T024204Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 SUMMARY:喵喵不吃魚 深圳TP01泳装动漫展
@@ -161,5 +151,4 @@ DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/us
  🈴/漫展/摄影会：mmbcy0610（合作备注➕品牌\n恋人：@小
  魚冻干🐟
 END:VEVENT
-
 END:VCALENDAR
