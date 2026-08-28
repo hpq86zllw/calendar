@@ -5,40 +5,4 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:抖音账号行程
 X-WR-TIMEZONE:Asia/Shanghai
-BEGIN:VEVENT
-UID:b1b529b26e6ca899fde32b1bfdadc3e1@douyin-schedule
-DTSTAMP:20260828T215259Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:喵喵不吃魚 佛山cpg08
-DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/us
- er/MS4wLjABAAAA1eiDksSVnuR4vKhQhqtukphGervKn87H_7dwCkqPMtg?from_tab_name=m
- ain\n行程日期：8.23\n行程内容：佛山cpg08\n\n完整简介：\n
- 行程：8.23佛山cpg08｜8.27-28海汀阁拆卡｜...\n\n更新时间：
- 2026-08-28 21:52:59
-END:VEVENT
-BEGIN:VEVENT
-UID:36f3f6b28f52fb8c8b32a02f1b838050@douyin-schedule
-DTSTAMP:20260828T215259Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:喵喵不吃魚 海汀阁拆卡
-DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/us
- er/MS4wLjABAAAA1eiDksSVnuR4vKhQhqtukphGervKn87H_7dwCkqPMtg?from_tab_name=m
- ain\n行程日期：8.27\n行程内容：海汀阁拆卡\n\n完整简介
- ：\n行程：8.23佛山cpg08｜8.27-28海汀阁拆卡｜...\n\n更新时
- 间：2026-08-28 21:52:59
-END:VEVENT
-BEGIN:VEVENT
-UID:160eebab346165f939ad12a567101379@douyin-schedule
-DTSTAMP:20260828T215259Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:喵喵不吃魚 海汀阁拆卡
-DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/us
- er/MS4wLjABAAAA1eiDksSVnuR4vKhQhqtukphGervKn87H_7dwCkqPMtg?from_tab_name=m
- ain\n行程日期：8.28\n行程内容：海汀阁拆卡\n\n完整简介
- ：\n行程：8.23佛山cpg08｜8.27-28海汀阁拆卡｜...\n\n更新时
- 间：2026-08-28 21:52:59
-END:VEVENT
 END:VCALENDAR
