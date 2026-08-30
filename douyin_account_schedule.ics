@@ -5,4 +5,28 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:抖音账号行程
 X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:582f51d5cfb11265c4188495b69daf7a@douyin-schedule
+DTSTAMP:20260830T082028Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:喵喵不吃魚 深圳漫研社
+DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/us
+ er/MS4wLjABAAAA1eiDksSVnuR4vKhQhqtukphGervKn87H_7dwCkqPMtg?from_tab_name=m
+ ain\n行程日期：8.30\n行程内容：深圳漫研社\n\n完整简介
+ ：\n行程：8.30深圳漫研社｜9.6深圳TP01泳装动漫展 ...\n\n
+ 更新时间：2026-08-30 08:20:28
+END:VEVENT
+BEGIN:VEVENT
+UID:d0f196a4905606977568397f7b9e7e4a@douyin-schedule
+DTSTAMP:20260830T082028Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:喵喵不吃魚 深圳TP01泳装动漫展
+DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/us
+ er/MS4wLjABAAAA1eiDksSVnuR4vKhQhqtukphGervKn87H_7dwCkqPMtg?from_tab_name=m
+ ain\n行程日期：9.6\n行程内容：深圳TP01泳装动漫展\n\n完
+ 整简介：\n行程：8.30深圳漫研社｜9.6深圳TP01泳装动漫展 
+ ...\n\n更新时间：2026-08-30 08:20:28
+END:VEVENT
 END:VCALENDAR
