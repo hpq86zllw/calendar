@@ -5,4 +5,180 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:抖音账号行程
 X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:78d27b89549f8f42f0ecd346bef55e6e@douyin-schedule
+DTSTAMP:20260830T101826Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:猫禾子 东莞萤火虫psd签售
+DESCRIPTION:用户名：猫禾子\n账号：https://www.douyin.com/user/MS4
+ wLjABAAAAQm5xose9sh4yGjirEeH6kbz9QJGqUPxLDoj4Zi88JR4?from_tab_name=main\n
+ 行程日期：8.22\n行程内容：东莞萤火虫psd签售\n\n完整简
+ 介：\n谢谢喜欢，关注我的宝都心想事成  \nCoser  其他同
+ 茗 猫禾子 \n⭐：8.22-23东莞萤火虫psd签售；9.6广州花嫁绮
+ 梦only 签售；9.13广州康正社签售；10.17上海舰长社碧蓝onl
+ y签售；10.18派庄园异次元展 签售；11.7广州舰长社碧蓝onl
+ y签售\n景区推广/展台/嘉宾/探店推广合作带内容私信\n\n
+ 更新时间：2026-08-30 10:18:26
+END:VEVENT
+BEGIN:VEVENT
+UID:c99ccdc6eda69623008d858b0ca5162a@douyin-schedule
+DTSTAMP:20260830T101826Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:猫禾子 东莞萤火虫psd签售
+DESCRIPTION:用户名：猫禾子\n账号：https://www.douyin.com/user/MS4
+ wLjABAAAAQm5xose9sh4yGjirEeH6kbz9QJGqUPxLDoj4Zi88JR4?from_tab_name=main\n
+ 行程日期：8.23\n行程内容：东莞萤火虫psd签售\n\n完整简
+ 介：\n谢谢喜欢，关注我的宝都心想事成  \nCoser  其他同
+ 茗 猫禾子 \n⭐：8.22-23东莞萤火虫psd签售；9.6广州花嫁绮
+ 梦only 签售；9.13广州康正社签售；10.17上海舰长社碧蓝onl
+ y签售；10.18派庄园异次元展 签售；11.7广州舰长社碧蓝onl
+ y签售\n景区推广/展台/嘉宾/探店推广合作带内容私信\n\n
+ 更新时间：2026-08-30 10:18:26
+END:VEVENT
+BEGIN:VEVENT
+UID:6b5d40ac6ba6a097b0ceaa796017ede3@douyin-schedule
+DTSTAMP:20260830T101826Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:猫禾子 广州花嫁绮梦only签售
+DESCRIPTION:用户名：猫禾子\n账号：https://www.douyin.com/user/MS4
+ wLjABAAAAQm5xose9sh4yGjirEeH6kbz9QJGqUPxLDoj4Zi88JR4?from_tab_name=main\n
+ 行程日期：9.6\n行程内容：广州花嫁绮梦only签售\n\n完整
+ 简介：\n谢谢喜欢，关注我的宝都心想事成  \nCoser  其他
+ 同茗 猫禾子 \n⭐：8.22-23东莞萤火虫psd签售；9.6广州花嫁
+ 绮梦only 签售；9.13广州康正社签售；10.17上海舰长社碧蓝
+ only签售；10.18派庄园异次元展 签售；11.7广州舰长社碧蓝
+ only签售\n景区推广/展台/嘉宾/探店推广合作带内容私信\n
+ \n更新时间：2026-08-30 10:18:26
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb016e943ce38f583646ff6b4ad3b56@douyin-schedule
+DTSTAMP:20260830T101826Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:猫禾子 广州康正社签售
+DESCRIPTION:用户名：猫禾子\n账号：https://www.douyin.com/user/MS4
+ wLjABAAAAQm5xose9sh4yGjirEeH6kbz9QJGqUPxLDoj4Zi88JR4?from_tab_name=main\n
+ 行程日期：9.13\n行程内容：广州康正社签售\n\n完整简介
+ ：\n谢谢喜欢，关注我的宝都心想事成  \nCoser  其他同茗 
+ 猫禾子 \n⭐：8.22-23东莞萤火虫psd签售；9.6广州花嫁绮梦o
+ nly 签售；9.13广州康正社签售；10.17上海舰长社碧蓝only签
+ 售；10.18派庄园异次元展 签售；11.7广州舰长社碧蓝only签
+ 售\n景区推广/展台/嘉宾/探店推广合作带内容私信\n\n更
+ 新时间：2026-08-30 10:18:26
+END:VEVENT
+BEGIN:VEVENT
+UID:7e3319806d506c8f04380f2932908ec1@douyin-schedule
+DTSTAMP:20260830T101826Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:猫禾子 上海舰长社碧蓝only签售
+DESCRIPTION:用户名：猫禾子\n账号：https://www.douyin.com/user/MS4
+ wLjABAAAAQm5xose9sh4yGjirEeH6kbz9QJGqUPxLDoj4Zi88JR4?from_tab_name=main\n
+ 行程日期：10.17\n行程内容：上海舰长社碧蓝only签售\n\n
+ 完整简介：\n谢谢喜欢，关注我的宝都心想事成  \nCoser  
+ 其他同茗 猫禾子 \n⭐：8.22-23东莞萤火虫psd签售；9.6广州
+ 花嫁绮梦only 签售；9.13广州康正社签售；10.17上海舰长社
+ 碧蓝only签售；10.18派庄园异次元展 签售；11.7广州舰长社
+ 碧蓝only签售\n景区推广/展台/嘉宾/探店推广合作带内容
+ 私信\n\n更新时间：2026-08-30 10:18:26
+END:VEVENT
+BEGIN:VEVENT
+UID:0288bc3a85ec9d31c39e0328ab4f017b@douyin-schedule
+DTSTAMP:20260830T101826Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:猫禾子 派庄园异次元展签售
+DESCRIPTION:用户名：猫禾子\n账号：https://www.douyin.com/user/MS4
+ wLjABAAAAQm5xose9sh4yGjirEeH6kbz9QJGqUPxLDoj4Zi88JR4?from_tab_name=main\n
+ 行程日期：10.18\n行程内容：派庄园异次元展签售\n\n完整
+ 简介：\n谢谢喜欢，关注我的宝都心想事成  \nCoser  其他
+ 同茗 猫禾子 \n⭐：8.22-23东莞萤火虫psd签售；9.6广州花嫁
+ 绮梦only 签售；9.13广州康正社签售；10.17上海舰长社碧蓝
+ only签售；10.18派庄园异次元展 签售；11.7广州舰长社碧蓝
+ only签售\n景区推广/展台/嘉宾/探店推广合作带内容私信\n
+ \n更新时间：2026-08-30 10:18:26
+END:VEVENT
+BEGIN:VEVENT
+UID:b75630efc524b5d07a56d67afe263d6a@douyin-schedule
+DTSTAMP:20260830T101826Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:猫禾子 广州舰长社碧蓝only签售
+DESCRIPTION:用户名：猫禾子\n账号：https://www.douyin.com/user/MS4
+ wLjABAAAAQm5xose9sh4yGjirEeH6kbz9QJGqUPxLDoj4Zi88JR4?from_tab_name=main\n
+ 行程日期：11.7\n行程内容：广州舰长社碧蓝only签售\n\n完
+ 整简介：\n谢谢喜欢，关注我的宝都心想事成  \nCoser  其
+ 他同茗 猫禾子 \n⭐：8.22-23东莞萤火虫psd签售；9.6广州花
+ 嫁绮梦only 签售；9.13广州康正社签售；10.17上海舰长社碧
+ 蓝only签售；10.18派庄园异次元展 签售；11.7广州舰长社碧
+ 蓝only签售\n景区推广/展台/嘉宾/探店推广合作带内容私
+ 信\n\n更新时间：2026-08-30 10:18:26
+END:VEVENT
+BEGIN:VEVENT
+UID:582f51d5cfb11265c4188495b69daf7a@douyin-schedule
+DTSTAMP:20260830T101826Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:喵喵不吃魚 深圳漫研社
+DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/us
+ er/MS4wLjABAAAA1eiDksSVnuR4vKhQhqtukphGervKn87H_7dwCkqPMtg?from_tab_name=m
+ ain\n行程日期：8.30\n行程内容：深圳漫研社\n\n完整简介
+ ：\n🌟行程：8.30深圳漫研社｜9.6深圳TP01泳装动漫展\n种
+ 草｜寄拍｜合作\n✈️➕🫧｜🚗回关｜随机22点后播\n
+ 🈴/漫展/摄影会：mmbcy0610（合作备注➕品牌\n恋人：@小
+ 魚冻干🐟\n\n更新时间：2026-08-30 10:18:26
+END:VEVENT
+BEGIN:VEVENT
+UID:d0f196a4905606977568397f7b9e7e4a@douyin-schedule
+DTSTAMP:20260830T101826Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:喵喵不吃魚 深圳TP01泳装动漫展
+DESCRIPTION:用户名：喵喵不吃魚\n账号：https://www.douyin.com/us
+ er/MS4wLjABAAAA1eiDksSVnuR4vKhQhqtukphGervKn87H_7dwCkqPMtg?from_tab_name=m
+ ain\n行程日期：9.6\n行程内容：深圳TP01泳装动漫展\n\n完
+ 整简介：\n🌟行程：8.30深圳漫研社｜9.6深圳TP01泳装动漫
+ 展\n种草｜寄拍｜合作\n✈️➕🫧｜🚗回关｜随机22点后
+ 播\n🈴/漫展/摄影会：mmbcy0610（合作备注➕品牌\n恋人：@
+ 小魚冻干🐟\n\n更新时间：2026-08-30 10:18:26
+END:VEVENT
+BEGIN:VEVENT
+UID:b7b84d40780efab2571da36e4f5c5026@douyin-schedule
+DTSTAMP:20260830T101826Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:行程获取失败
+DESCRIPTION:账号链接：https://www.douyin.com/user/MS4wLjABAAAAbk5tSInv
+ BNOrHwlLh6tUValOjdqdoWkK9vqFQtvZfcniMZXCRL3g_RsHG4y7Qo2s?from_tab_name=mai
+ n\n失败原因：所有解析方法均未能获取用户信息\n抓取日
+ 期：2026-08-30 10:18\n\n更新时间：2026-08-30 10:18:26
+STATUS:NEEDS-ACTION
+END:VEVENT
+BEGIN:VEVENT
+UID:09d2229d7469f1467853f012081cc15a@douyin-schedule
+DTSTAMP:20260830T101826Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:行程获取失败
+DESCRIPTION:账号链接：https://www.douyin.com/user/MS4wLjABAAAA1mgMhvVI
+ sWhlMVxUd04IXBssoHj-IwkV0dBXQF0IgJMhCnzRg7q-nwI9xr5J57Qm?from_tab_name=mai
+ n\n失败原因：所有解析方法均未能获取用户信息\n抓取日
+ 期：2026-08-30 10:18\n\n更新时间：2026-08-30 10:18:26
+STATUS:NEEDS-ACTION
+END:VEVENT
+BEGIN:VEVENT
+UID:1b44133f59871575f33f8894b2ebee78@douyin-schedule
+DTSTAMP:20260830T101826Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:行程获取失败
+DESCRIPTION:账号链接：https://www.douyin.com/user/MS4wLjABAAAAeWvTm1W1
+ GiKFZ-lFtiXxY0SWl89R6H21ODKBVGuJ8hrrB6yg2bp_UFFi36ZT6kWC?from_tab_name=mai
+ n\n失败原因：所有解析方法均未能获取用户信息\n抓取日
+ 期：2026-08-30 10:18\n\n更新时间：2026-08-30 10:18:26
+STATUS:NEEDS-ACTION
+END:VEVENT
 END:VCALENDAR
